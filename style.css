@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+  }
+h1{
+    font-size: 50px;
+  }
+  
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Bungee", system-ui;
+    text-align: center;
+  }
+  
+.image {
+    border: 5px solid yellow;
+    width: 100%;
+  }
+  
